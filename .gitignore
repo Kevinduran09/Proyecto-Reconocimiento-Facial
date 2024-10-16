@@ -1,0 +1,4 @@
+venv/
+dataset/*
+face_recognizer_model.yml
+label_dict.npy
